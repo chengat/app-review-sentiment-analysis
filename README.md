@@ -33,12 +33,3 @@ This repository contains a **data analysis project** that collects, preprocesses
   - Provides design recommendations for improving app usability for seniors.
 
 ---
-
-## 📊 Example Insights
-
-- Many users complain about **intrusive advertisements**.  
-- Elderly users request **larger icons, dark mode, and higher text contrast**.  
-- Positive reviews highlight **simplicity and ease of navigation**.  
-- LDA Topic Modeling clusters issues into usability, accessibility, and monetization.
-
----
